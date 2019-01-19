@@ -23,6 +23,9 @@
   },
   "homepage": "https://github.com/bahmutov/use-typescript-with-cypress#readme",
   "devDependencies": {
-    "cypress": "3.1.4"
+    "cypress": "3.1.4",
+    "ts-loader": "5.3.3",
+    "typescript": "3.2.4",
+    "webpack": "4.28.4"
   }
 }
